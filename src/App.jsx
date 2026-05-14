@@ -89,7 +89,7 @@ function App() {
           />
 
           <h1 className="text-5xl sm:text-7xl font-extrabold bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-500 bg-clip-text text-transparent animate-gradient">
-            Hi, I'm Sourav
+            Hi, I'm Sourav 🚀
           </h1>
 
           <TypeAnimation
